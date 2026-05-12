@@ -1,5 +1,4 @@
-## Languages & Tools
-
+## Languages and Tools which i am experienced with
 <img
   src="https://github.com/user-attachments/assets/6a6f14de-c356-4418-87a4-715300e038ab" alt="phpah" height="50" width='50'>
 ![JavaScript](https://camo.githubusercontent.com/93cc72e2d5be6d44753c7e8169440471f605eee495b3b78480a591c14f39080e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a73)
