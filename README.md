@@ -7,7 +7,7 @@
 ![MySQL](https://camo.githubusercontent.com/89465c2c49ac408ee5167a1aa1fe7bc8dc9d0c6c7f204bc631d5e6f13733698e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d7973716c)
 ![VS Code](https://camo.githubusercontent.com/1e321c65f17c033c981549fa030b2f9df52d03f3a536e79d91d4b6676642ce40/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f6465)
 <a href="https://jetbrains.com">
-  <img src="https://githubusercontent.com" alt="PyCharm" height="25" width='25'>
+  <img src="https://camo.githubusercontent.com/61a2b9c55fe2311ab964bb080fb40abc2c51fde6e71a6f9bf88cf4de7252fa0d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7079636861726d2f7079636861726d2d6f726967696e616c2e737667" alt="PyCharm" height="25" width='25'>
 </a>
 ![XAMPP](https://cdn.worldvectorlogo.com/logos/xampp.svg)
 ![VBScript](https://camo.githubusercontent.com/6dccce9d61a50b6cdbf7ac09ea33b68fdd8d05b7a3575d15ab6505196bc1c55a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d76697375616c73747564696f)
