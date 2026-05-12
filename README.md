@@ -1,6 +1,6 @@
 ## Languages & Tools
 
-![PHP](<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d545b52d-3ebc-4c29-9193-e9dff3627b44" />)
+![PHP](https://github.com/user-attachments/assets/d545b52d-3ebc-4c29-9193-e9dff3627b44)
 ![JavaScript](https://camo.githubusercontent.com/93cc72e2d5be6d44753c7e8169440471f605eee495b3b78480a591c14f39080e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a73)
 ![Python](https://camo.githubusercontent.com/ec4c077f161d6bb235895c53005f5134c56148fe279c93bfbaea85fe277e9ce3/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7079)
 ![TypeScript](https://camo.githubusercontent.com/e782d276e040099579bf1b9832177309472c5fe5480fe634cd3296e5bf2c099c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7473)
