@@ -29,8 +29,8 @@
 <!-- Row 5: Tools -->
 <p>
   <img src="https://camo.githubusercontent.com/1e321c65f17c033c981549fa030b2f9df52d03f3a536e79d91d4b6676642ce40/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f6465" alt="VS Code" height="50" width="50">
+    <img src="https://camo.githubusercontent.com/6dccce9d61a50b6cdbf7ac09ea33b68fdd8d05b7a3575d15ab6505196bc1c55a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d76697375616c73747564696f" alt="Visual Studio" height="50" width="50">
   <img src="https://camo.githubusercontent.com/61a2b9c55fe2311ab964bb080fb40abc2c51fde6e71a6f9bf88cf4de7252fa0d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7079636861726d2f7079636861726d2d6f726967696e616c2e737667" alt="PyCharm" height="50" width="50">
-  <img src="https://camo.githubusercontent.com/6dccce9d61a50b6cdbf7ac09ea33b68fdd8d05b7a3575d15ab6505196bc1c55a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d76697375616c73747564696f" alt="Visual Studio" height="50" width="50">
   <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" alt="XAMPP" height="50" width="50">
 </p>
 
